@@ -11,3 +11,7 @@ Invest wisely and consult a financial advisor.
 The strategy is based on 5-point Moving Average... This strategy was demonstrated in the Quantinsti Webinar which was hosted by Nithin Kamath and Satyajit Mukherjee.
 
 Plug in your access tokens to use the code.
+Plug in the to and from date accordingly to access the historical data.
+Plug in the instrument on which you want to trade
+
+You can refer to the Kite Documentation for Python for more strategies and tools: https://kite.trade/docs/pykiteconnect/
